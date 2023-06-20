@@ -1,0 +1,15 @@
+"Raw","utcTimeMillis","TimeNanos","LeapSecond","TimeUncertaintyNanos","FullBiasNanos","BiasNanos","BiasUncertaintyNanos","DriftNanosPerSecond","DriftUncertaintyNanosPerSecond","HardwareClockDiscontinuityCount","Svid","TimeOffsetNanos","State","ReceivedSvTimeNanos","ReceivedSvTimeUncertaintyNanos","Cn0DbHz","PseudorangeRateMetersPerSecond","PseudorangeRateUncertaintyMetersPerSecond","AccumulatedDeltaRangeState","AccumulatedDeltaRangeMeters","AccumulatedDeltaRangeUncertaintyMeters","CarrierFrequencyHz","CarrierCycles","CarrierPhase","CarrierPhaseUncertainty","MultipathIndicator","SnrInDb","ConstellationType","AgcDb","BasebandCn0DbHz","FullInterSignalBiasNanos","FullInterSignalBiasUncertaintyNanos","SatelliteInterSignalBiasNanos","SatelliteInterSignalBiasUncertaintyNanos","CodeType","ChipsetElapsedRealtimeNanos"
+
+"UncalAccel","utcTimeMillis","elapsedRealtimeNanos","UncalAccelXMps2","UncalAccelYMps2","UncalAccelZMps2","BiasXMps2","BiasYMps2","BiasZMps2"
+
+"UncalGyro","utcTimeMillis","elapsedRealtimeNanos","UncalGyroXRadPerSec","UncalGyroYRadPerSec","UncalGyroZRadPerSec","DriftXRadPerSec","DriftYRadPerSec","DriftZRadPerSec"
+
+"UncalMag","utcTimeMillis","elapsedRealtimeNanos","UncalMagXMicroT","UncalMagYMicroT","UncalMagZMicroT","BiasXMicroT","BiasYMicroT","BiasZMicroT"
+
+"OrientationDeg","utcTimeMillis","elapsedRealtimeNanos","yawDeg","rollDeg","pitchDeg"
+
+"Fix","Provider","LatitudeDegrees","LongitudeDegrees","AltitudeMeters","SpeedMps","AccuracyMeters","BearingDegrees","UnixTimeMillis","SpeedAccuracyMps","BearingAccuracyDegrees","elapsedRealtimeNanos"
+
+"Nav","Svid","Type","Status","MessageId","Sub-messageId","Data(Bytes)"
+
+"Status","UnixTimeMillis","SignalCount","SignalIndex","ConstellationType","Svid","CarrierFrequencyHz","Cn0DbHz","AzimuthDegrees","ElevationDegrees","UsedInFix","HasAlmanacData","HasEphemerisData","BasebandCn0DbHz"
